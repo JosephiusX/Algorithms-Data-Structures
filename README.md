@@ -28,4 +28,12 @@ sec 2 Big O Notation
             Describe what a logarithm is
 
     5. Timing Our Code
-        
+
+        the problem with time
+            diffrent machines will record diffrend times
+
+            the same machine will record diffrent times
+
+            for fast algorithms, speed measurements may not be precise enough
+
+    6. Coundtin Operations 
