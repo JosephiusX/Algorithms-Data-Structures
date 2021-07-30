@@ -36,4 +36,14 @@ sec 2 Big O Notation
 
             for fast algorithms, speed measurements may not be precise enough
 
-    6. Coundtin Operations 
+    6. Coundtin Operations
+
+sec5: Problem Solving Patterns
+
+    27. Frequency counter Pattern
+
+        generally speaking we are breaking down an array into smaller objects that can be compared to objects in another array.
+
+    28. Frequency Counter: Anagram Challenge
+
+    29. Anagram Challange Solution
