@@ -132,3 +132,32 @@ this pattern involves creating a window which can either be an array or number f
 depending on a certain condition, the window either increases or closes (and a new window is created)
 
 very useful for keeping track of a subset of data in an array/string etc.
+
+## 34. Divide And Conqure Pattern
+
+This pattern involves dividing a data set into smaller chunks and then repeating a process with a subset of data.
+
+This pattern can tremendously decrease time complexity
+
+        need to circle back to annotate for understanding
+
+# sec 6 OPTIONAL Challanges (extra credit)
+
+# sec 7 Recursion
+
+## 41 Why use recursion
+
+        what is it
+            a process (function) that calls its self
+
+        its everywhere
+            -JSON.parse / JSON.stringify
+            -document.getElementByld and DOM traversal algorythms
+            -We will see it with more complex data structures
+            - it's sometimes a cleaner alternative to iteration.
+
+## 42. The Call Stack
+
+            -It's a stack data structure - we'll talk about that later!
+            -Any time a function is invoked it is p.aced (pushed) on top of the call stack
+            -When JavaScript sees the return keyword or when the function ends, the compiler will remove (pop)
