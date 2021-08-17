@@ -173,3 +173,48 @@ when we write recursive functions, we keep pushing new functions onto the call s
 ## 45. Writing Fractional Recursively
 
 ## 46. Writing Factorial Recursively
+
+## 47. Common Recursion Pitfalls
+
+            where things could go wrong
+                -No base case
+                -Forgetting to return or returning the wrong thing!
+                -Stack overflow! - recursion is not stopping
+
+## 48. Helper Method Recursion
+
+pattern in which we have a outter function that is not recursive which calls an inner function that is recursive
+
+## 49. Pure Recursion
+
+Pure Recursion tips
+
+        -for arrays, use methods like slice, the spread, operator, and concat that make copies of arrays so you do not mutate them
+        -Remimber that strings are immitable so you will need to use methods like slice, substr, or substrings to make copies of strings
+        -To make copies of objects use Object.assign, or the spread operator.
+
+# sec 8 Recursion Problem Set
+
+This is the first of two recursion problem sets. Both are completely optional. This problem set contains "easier" problems, though that doesn't mean they will be easy for everyone. The next section contains more challenging problems.
+
+P.S. You can find solutions in the last lecture of this section!
+
+### Ex10
+
+# sec 9 Bonus CHALLANGING Recursion Problems
+
+THESE PROBLEMS ARE SIGNIFICANTLY HARDER THAN THE EARLIER PROBLEMS. DO NOT FEEL BAD IF THEY GIVE YOU TROUBLE. THIS SECTION IS FOR PEOPLE WHO ENJOY PAIN AND MISERY. YOU DO NOT NEED TO ATTEMPT ANY OF THESE PROBLEMS IF YOU DO NOT WANT TO!
+
+# sec 10 Searching A
+
+## 56. Intro to Searching
+
+            objectives
+
+            - Describe what a searching algorithm is
+            - Implement linear search on arrays
+            - Implement a binary search on stored arrays
+            - Implement a niave string search algorithm
+            - Implement the KMP String searching algorithm
+
+## 57. Intro to Linear Search

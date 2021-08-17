@@ -12,5 +12,15 @@ const factorial = (num) => {
 
 const ex = factorial(4)
 
-console.log(ex)
-46
+// console.log(ex)
+
+// Writing Factorial recursively
+
+const recursiveFactorial = (num) => {
+	if (num === 1) return 1
+	return num * recursiveFactorial(num - 1)
+}
+
+const ex2 = recursiveFactorial(9)
+
+console.log(ex2)
