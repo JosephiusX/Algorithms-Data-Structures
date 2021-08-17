@@ -161,3 +161,15 @@ This pattern can tremendously decrease time complexity
             -It's a stack data structure - we'll talk about that later!
             -Any time a function is invoked it is p.aced (pushed) on top of the call stack
             -When JavaScript sees the return keyword or when the function ends, the compiler will remove (pop)
+
+im used t functions being published on the call stack and popped off when they are done
+
+when we write recursive functions, we keep pushing new functions onto the call stack!
+
+## 43. Our First Recursive Function
+
+## 44. Our Second Recursive Function
+
+## 45. Writing Fractional Recursively
+
+## 46. Writing Factorial Recursively
