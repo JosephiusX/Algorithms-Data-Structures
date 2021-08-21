@@ -218,3 +218,13 @@ THESE PROBLEMS ARE SIGNIFICANTLY HARDER THAN THE EARLIER PROBLEMS. DO NOT FEEL B
             - Implement the KMP String searching algorithm
 
 ## 57. Intro to Linear Search
+
+## 59. Linear Search BIG 0
+
+## 60. Intro to binary search
+
+            -Binary search is a much faster form of searh
+            -Rather than eliminating one element at a time, you can eliminate half of the remaining elements at a time
+            -Binary search only works on sorted arrays!
+
+## 61. Binary Search Pseudocode
